@@ -10,3 +10,9 @@ you cannot enter an operation when there is no number.
 you cannot get a result when the line ends with an operation.
 You cannot enter anything but numbers and operations and you can use the keyboards or the buttons on the screen.
 
+
+
+![Screenshot 2021-04-20 213346](https://user-images.githubusercontent.com/73660116/115446844-745f7c00-a220-11eb-94ac-26f4fb6fe045.jpg)
+![Screenshot 2021-04-20 213356](https://user-images.githubusercontent.com/73660116/115446849-7590a900-a220-11eb-87a1-6b82ae66d4bd.jpg)
+
+
