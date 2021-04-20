@@ -2,7 +2,7 @@
 In order to run the program you need javafx library and you need to add it from project structure
 You need to add module path from edit configurations//vm options/path.
 
-This is a calculator with GUI it is pretty straight forward.
+This is a calculator with GUI. it is pretty straight forward.
 It follows operation priority.
 and you can get a result with n numbers are entered.
 you cannot enter 2 operations back to back.
